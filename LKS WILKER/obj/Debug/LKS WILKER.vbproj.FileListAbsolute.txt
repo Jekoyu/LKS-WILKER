@@ -1,0 +1,28 @@
+C:\Users\tkism\AppData\Local\Temporary Projects\LKS WILKER\bin\Debug\LKS WILKER.exe.config
+D:\P\LKS WILKER\LKS WILKER\bin\Debug\LKS WILKER.exe.config
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS WILKER.vbproj.ResolveComReference.cache
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS WILKER.vbprojResolveAssemblyReference.cache
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Home.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Login.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Resources.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Register.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS WILKER.vbproj.GenerateResource.Cache
+D:\P\LKS WILKER\LKS WILKER\bin\Debug\LKS WILKER.exe
+D:\P\LKS WILKER\LKS WILKER\bin\Debug\LKS WILKER.pdb
+D:\P\LKS WILKER\LKS WILKER\bin\Debug\LKS WILKER.xml
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS WILKER.exe
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS WILKER.xml
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS WILKER.pdb
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Master.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Managebarang.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.ManageUser.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.About.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Dashboard.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Logout.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Belanja.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Rincian.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.History.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Keranjang.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Transaksi.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Laporan.resources
+D:\P\LKS WILKER\LKS WILKER\obj\Debug\LKS_WILKER.Profile.resources
